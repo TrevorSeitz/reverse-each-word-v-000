@@ -3,3 +3,4 @@ reverse_each_word(sentence)
   sentence.each.reverse
   puts sentence
 end
+end
